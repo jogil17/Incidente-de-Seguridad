@@ -1,5 +1,5 @@
 # Incidente de Seguridad
-Creo un reporte de incidente utilizando el conocimiento que he adquirido sobre redes a lo largo del curso Cybersecurity Google Certificate para analizar un incidente de red. Analizo la situación utilizando el Marco de Ciberseguridad del Instituto Nacional de Estándares y Tecnología (NIST CSF).
+Creo un reporte de incidente utilizando el conocimiento que he adquirido sobre redes a lo largo del curso Cybersecurity Google Certificate para analizar un incidente de red. Analizo la situación utilizando el Marco de Ciberseguridad del Instituto Nacional de Estándares y Tecnología (NIST CSF). Actividad:
 
 Usted es un analista de ciberseguridad que trabaja para una empresa multimedia que ofrece servicios de diseño web, diseño gráfico y soluciones de Marketing en redes sociales a pequeñas empresas. Su organización ha sufrido recientemente un ataque DDoS, que ha puesto en peligro la red interna durante dos horas hasta que se ha resuelto.
 
